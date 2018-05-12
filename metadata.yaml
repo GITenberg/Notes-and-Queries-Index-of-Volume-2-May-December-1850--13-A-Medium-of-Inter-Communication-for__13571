@@ -1,0 +1,28 @@
+_repo: Notes-and-Queries-Index-of-Volume-2-May-December-1850--13-A-Medium-of-Inter-Communication-for__13571
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Notes and Queries
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'AG'
+- !lcsh 'Questions and answers -- Periodicals'
+title: "Notes and Queries, Index of Volume 2, May-December, 1850\r\nA Medium of Inter-Communication\
+  \ for Literary Men, Artists, Antiquaries, Genealogists, Etc."
+url: http://www.gutenberg.org/ebooks/13571
